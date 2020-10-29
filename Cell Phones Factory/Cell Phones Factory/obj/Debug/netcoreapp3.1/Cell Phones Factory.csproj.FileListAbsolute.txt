@@ -1,0 +1,26 @@
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.exe
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.deps.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.runtimeconfig.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.runtimeconfig.dev.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.AssemblyInfo.cs
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.genruntimeconfig.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.exe
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.deps.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.runtimeconfig.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.runtimeconfig.dev.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\bin\Debug\netcoreapp3.1\Cell Phones Factory.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.AssemblyInfo.cs
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Patrones de diseño\Cell phone\CellPhone_Store\Cell Phones Factory\Cell Phones Factory\obj\Debug\netcoreapp3.1\Cell Phones Factory.genruntimeconfig.cache
